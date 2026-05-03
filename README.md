@@ -107,6 +107,7 @@ Table of Contents:
 ### Visualization & Dashboards
 
 - [evilmartians/agent-prism](https://github.com/evilmartians/agent-prism) (331 TypeScript) - AgentPrism is an open-source React library that visualizes AI agent traces to help debug and understand agent workflows through interactive and hierarchical timelines integrated with OpenTelemetry data.
+- [KubeStellar Console](https://github.com/kubestellar/console) - AI-powered multi-cluster Kubernetes management console with real-time observability dashboards, cluster health monitoring, AI agent integration (MCP), and 150+ modular cards for DevOps intelligence.
 
 ## Educational Resources
 
